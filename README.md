@@ -8,3 +8,13 @@ Repo for this course https://www.udemy.com/course/nodejs-the-complete-guide
 
 - **backend**: expressjs server for application
 - **frontend**: frontend with react
+
+## Development
+
+- backend
+
+`yarn start` in the `backend` folder
+
+- frontend
+
+`yarn start` in the `frontend` folder
